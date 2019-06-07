@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrusecParser", "LibrusecParser\LibrusecParser.csproj", "{06ED12D2-A2AA-4D11-9A98-E96EFA7CEFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06ED12D2-A2AA-4D11-9A98-E96EFA7CEFE0}.Debug|x86.ActiveCfg = Debug|x86
+		{06ED12D2-A2AA-4D11-9A98-E96EFA7CEFE0}.Debug|x86.Build.0 = Debug|x86
+		{06ED12D2-A2AA-4D11-9A98-E96EFA7CEFE0}.Release|x86.ActiveCfg = Release|x86
+		{06ED12D2-A2AA-4D11-9A98-E96EFA7CEFE0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LibrusecParser\LibrusecParser.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = 
+		$2.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
